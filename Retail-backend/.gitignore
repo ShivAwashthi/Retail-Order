@@ -1,0 +1,23 @@
+# Maven
+target/
+
+# Gradle
+build/
+
+# IDE
+.idea/
+*.iml
+.vscode/
+
+# Logs
+*.log
+logs/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Env files
+.env
+application.properties
+application.yml
