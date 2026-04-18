@@ -15,7 +15,7 @@ public class Product {
 
     private String name;
     private String description;
-    private String price;
+    private Double price;
     private int stockQuantity;
 
 @ManyToOne
