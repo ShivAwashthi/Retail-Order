@@ -1,6 +1,6 @@
 package com.example.Retail_backend.service;
 
-<<<<<<< HEAD
+
 import com.example.Retail_backend.model.Category;
 import com.example.Retail_backend.model.Product;
 import com.example.Retail_backend.respository.CategoryRepository;
@@ -10,11 +10,11 @@ import org.springframework.stereotype.Service;
 
 import java.util.List;
 
-=======
+
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Service;
 
->>>>>>> c873bf8e5f687ef79e9ece0037bd1e04d7ef9dd4
+
 @Service
 @RequiredArgsConstructor
 public class ProductService {
